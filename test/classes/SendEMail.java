@@ -16,8 +16,8 @@ public class SendEMail
 
     public SendEMail(String destinatario, String asunto, String cuerpo, String fileName, String remitente, String clave)
     {
-        this.remitente = "hbaena2adan@gmail.com";
-        this.clave = "6dediciembre";
+        this.remitente = "correopordefecto@gmail.com";
+        this.clave = "clavepordefecto";
         this.destinatario = destinatario;
         this.asunto = asunto;
         this.cuerpo = cuerpo;
